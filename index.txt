@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <div class="r">
+        <div class="col-1" style="color: aliceblue;"> GITHUB</div>
+        <i class="fa fa-github fa-3x" aria-hidden="true" style="color:whitesmoke  ;" ></i>
+      </div>
+
+      <div class="box">
+        <div class="container">
+          <div class="row">
+    
+            <div class="col-md-4">
+              <div class="box-part"style="background-color: rgb(55, 65, 75);"><h3>Google lens</h3><p>
+                Run Google Lens on PC
+                Google Lens is a Lifestyle App developed by Google LLC. BlueStacks app player is the best platform to use this Android App on your PC or Mac for an immersive Android experience. Download Google Lens on PC with BlueStacks and transform your Android into a multi-functional, futuristic tool to make your life easier.
+                
+                 
+                
+                With the real-time image translation feature, Google Lens makes traveling in a new country more enjoyable. Just snap a shot of the foreign text and watch as Google Lens translates it into your preferred language. Connect with new people from all over the world!
+                
+                 
+                
+                Want to do a deep dive into some foreign language documents? Google Lens allows for smart copy-pasting of text from images, so you can snap a shot of the doc and send it to your phone or computer in a flash.
+                
+                 
+                
+                The incredible AR technology behind Google Lens allows you to learn more about the world around you. Curious about a plant or animal? Taking a photo and using Google Lens will bring up all the relevant information you want.
+                
+                 
+                
+                Google Lens can even help you with your homework! Please take a picture of your homework problem, and the app will guide you through solving it. Then, accelerate your learning with step-by-step explanations.
+                
+                 
+                
+                Download Google Lens on PC with BlueStacks and allow the cloud to improve your life.  </p></div> 
+            </div>
+
+            <div class="col-md-4">
+              <div class="box-part1">   
+                <input type="search" autocomplete="off" placeholder=" Search" id="input" style="background-color: rgb(55, 65, 75);"> 
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="box-part2" style="background-color: rgb(55, 65, 75);"> </div> 
+             
+              <div class="col-md-4">
+                <div class="box-part3" style="background-color:   rgb(55, 65, 75);"></div>   
+              </div>
+
+              <div class="col-md-4">
+                <div class="box-part4" style="background-color:  rgb(55, 65, 75);"></div>   
+              </div>
+
+              <div class="col-md-4">
+                <div class="box-part5"  ></div>   
+              </div>
+
+            </div>
