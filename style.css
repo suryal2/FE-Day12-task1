@@ -1,0 +1,25 @@
+ 
+ 
+
+ 
+ body{
+    background-color: rgb(192, 192, 244);
+ }
+ .navbar {
+    height: 120px;
+    background-color: rgb(11, 11, 26);
+ }
+ .f1{
+    position: relative;
+    right: 570px;
+ }
+ p{
+    color:beige;
+    position: absolute;
+    top:9px;
+    left:15px
+ }
+
+  
+  
+
